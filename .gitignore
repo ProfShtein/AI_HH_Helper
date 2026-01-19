@@ -1,1 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
 
+# venv
+.venv/
+venv/
+
+# Playwright профили/данные (куки, сессии)
+browser_profile_pw/
+browser_profile_pw_fallback/
+
+# env
+.env
+
+# IDE
+.idea/
+.vscode/
