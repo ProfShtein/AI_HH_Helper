@@ -1,1 +1,9 @@
 # AI_HH_Helper
+
+hh-playwright-agent/
+  agent.py
+  requirements.txt
+  .env.example
+  .gitignore
+  README.md
+  LICENSE
